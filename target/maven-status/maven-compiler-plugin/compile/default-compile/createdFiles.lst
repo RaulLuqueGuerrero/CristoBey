@@ -1,0 +1,7 @@
+com\cristobay\Modelo\Conexion.class
+com\cristobay\Vista\Vista.class
+com\cristobay\Modelo\Articulo.class
+com\cristobay\Modelo\Subastar.class
+com\cristobay\Vista\ClaseVista.class
+com\cristobay\Modelo\Usuario.class
+com\cristobay\Modelo\Pujar.class
